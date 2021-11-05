@@ -296,7 +296,7 @@ ul.liste_amis_2 {
     color: #760001;
 }
 
-@media all and (max-width:  1024px)
+@media all and (max-width:  768px)
 {
 	.bloc_page
 	{
